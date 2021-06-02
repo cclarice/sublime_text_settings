@@ -1,0 +1,35 @@
+{
+	"animation_enabled": false,
+	"caret_extra_width": 2,
+	"caret_style": "smooth",
+	"color_scheme": "Packages/OLED Color Scheme/OLED.sublime-color-scheme",
+	"enable_tab_scrolling": false,
+	"face_font": "Monaco Regular",
+	"fold_buttons": false,
+	"font_options":
+	[
+		"no_antialias"
+	],
+	"font_size": 16,
+	"gutter": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_numbers": true,
+	"margin": -2,
+	"match_brackets": true,
+	"overlay_scroll_bars": "disabled",
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"scroll_past_end": false,
+	"scroll_speed": 0,
+	"tab_size": 4,
+	"theme": "Adaptive.sublime-theme",
+	"tree_animation_enabled": false,
+	"word_wrap": true,
+	"wrap_width": 88,
+}
